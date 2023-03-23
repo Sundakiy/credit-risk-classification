@@ -102,19 +102,17 @@ Summary
 •	The failure of the model in the achievement of the objective would bear a grievous monetary consequence on the lending company.
 •	The Logistic Regression model fitted with OverSampled data performed much better than the model fitted with Imbalanced data due to the data being balanced and generating a higher accuracy score and a higher recall, indicating that the model will make extremely fewer mistakes when classifying non-healthy loans.
 •	The lending company’s intention would most likely require fewer False Positives due to the high possibility of a lender loosing provided funds when classifying non-healthy loans as healthy. 
+
 •	Machine Learning Model 1:
 o	56 (FALSE POSITIVES): In this case, the actual classification is healthy loans but predicted as non-healthy loan [1].
 o	102 (FALSE NEGATIVES): In this case, the actual classification is non-healthy loans, and the predicted as healthy loans [0].
 
 •	Machine Learning Model 2:
-
 o	4 (FALSE POSITIVES): In this case, the actual classification is healthy loans but predicted as non-healthy loan [1].
 o	116 (FALSE NEGATIVES): In this case, the actual classification is non-healthy loans, and the predicted as healthy loans [0].
 
 •	From the confusion matrices, the number of False Positives has drastically decreased, indicating accurate classification by the model of healthy & non-healthy loans. 
 •	Based on the foregoing, I would recommend using Machine Learning Model 2 (Logistic Regression Model fitted with Balanced (oversampled) data.
-
-
 
 References
 ==============
