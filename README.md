@@ -1,5 +1,8 @@
 # credit-risk-classification
 Credit Risk Analysis Report
+
+https://twitter.com/Dexlabanalytics/status/1243836769805586432/photo/1/
+
  
 
 Table of Contents:
