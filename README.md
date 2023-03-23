@@ -1,9 +1,8 @@
 # credit-risk-classification
 Credit Risk Analysis Report
 
-https://twitter.com/Dexlabanalytics/status/1243836769805586432/photo/1/
+![image](https://user-images.githubusercontent.com/80664491/227087345-5e89954d-3008-4b8b-8273-42b23562038a.png)
 
- 
 
 Table of Contents:
 1.	Overview of the Analysis
